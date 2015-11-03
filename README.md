@@ -1,12 +1,12 @@
 # Primerrepositorio
-Archivo Readme del repositorio "Primerrepositorio" en Remoto.
+Archivo Readme del repositorio "Primerrepositorio", rama "Testing" en Remoto.
 
-Última modificación: 3 de noviembre, 15:39 horas.
+Última modificación: 3 de noviembre, 16:30 horas.
 Modificado por: Sinhue E. Enríquez Treviño
 
 Las modificaciones registradas solo corresponden al archivo Readme.
 Historia de modificaciones
 
-Descargar archivos del repositorio, 3 de noviembre 15:39 horas.
+Descarga de archivos del repositorio: PENDIENTE
 
 --FIN---
